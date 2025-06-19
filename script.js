@@ -214,7 +214,7 @@ $(function () {
       albumArt.find("img.active").removeClass("active");
       $("#" + currArtwork).addClass("active");
 
-      bgArtworkUrl = $("#" + currArtwork).attr("src");
+      //bgArtworkUrl = $("#" + currArtwork).attr("src");
 
       bgArtwork.css({ "background-image": "url(" + bgArtworkUrl + ")" });
     } else {

@@ -17,14 +17,14 @@ $(function () {
   const albums = [
     "My Castle Town",
     "Starfruit Supernova",
-    "Electro Boy",
+    "Take Care",
     "Home",
     "Proxy (Original Mix)"
   ];
   const trackNames = [
     "Toby Fox - Deltarune Chapter 2",
     "catapillie  - Strawberry Jams Vol. 4",
-    "Kaaze - Electro Boy",
+    "ULTRAKILL - ACT 1",
     "Jordan Schor - Home",
     "Martin Garrix - Proxy"
   ];
@@ -32,7 +32,7 @@ $(function () {
   const trackUrl = [
     "https://saturdayknight1.github.io/notion/My%20Castle%20Town.mp3",
     "https://saturdayknight1.github.io/notion/[strawberry%20jams%20vol.%204]%20catapillie%20-%20Starfruit%20Supernova.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
+    "https://saturdayknight1.github.io/notion/Take%20Care%20(ULTRAKILL_%20INFINITE%20HYPERDEATH).mp3",
     "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
     "https://singhimalaya.github.io/Codepen/assets/music/5.mp3"
   ];

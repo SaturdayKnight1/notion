@@ -29,6 +29,8 @@ body {
   width: 430px;
   height: 100px;
   margin: -4px auto;
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
 #player-bg-layer {
@@ -40,6 +42,7 @@ body {
   background-color: #fff;
   opacity: 0.5;
   z-index: 2;
+  display: none !important;
 }
 
 #player {
@@ -58,6 +61,7 @@ body {
   border-radius: 15px 15px 0 0;
   transition: 0.3s ease top;
   z-index: 1;
+  background: transparent !important;
 }
 
 #player-track.active {
@@ -158,9 +162,10 @@ body {
   position: relative;
   height: 100%;
   background-color: #fff;
-  box-shadow: 0 30px 80px #656565;
+  box-shadow: none !important;
   border-radius: 15px;
   z-index: 2;
+  background: transparent !important;
 }
 
 #album-art {

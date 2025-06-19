@@ -29,8 +29,6 @@ body {
   width: 430px;
   height: 100px;
   margin: -4px auto;
-  background: transparent !important;
-  box-shadow: none !important;
 }
 
 #player-bg-layer {

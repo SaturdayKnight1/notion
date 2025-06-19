@@ -10,7 +10,7 @@
 
 body {
   margin: 0;
-  background-color: transparent;
+  background: transparent !important;
 }
 *:focus {
   outline: none;
